@@ -1,0 +1,9 @@
+model\Model.class
+model\entities\Endereco.class
+controller\Controller.class
+model\entities\Produto.class
+view\View$1.class
+com\mycompany\geradoredi\GeradorEDI.class
+view\View.class
+model\entities\Individuo.class
+model\entities\Nota.class
